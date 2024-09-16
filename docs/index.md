@@ -43,7 +43,6 @@ included 'Admin, Ecommerce & Blog' dashboards for 'Admin Use'. All functionary p
 </p>
 <h4 align="left">Docs: Documentation</h4>
 
-[[toc]]
 
 
 
